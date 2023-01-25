@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sauloem30
 - 👀 I’m interested in learning and collaborating with all devs around the world.
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on java and javascript project
+- 🌱 I’m currently learning fullstack web development
+- 💞️ I’m looking forward to collaborating on javascript project
 - 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/saulo-santos-maia-06800a112
 
 <!---
